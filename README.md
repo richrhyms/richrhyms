@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @richrhyms
 - 👀 I’m interested in Software Application Developement and devOPs
-- 🌱 I’m currently learning new tools, methodologies and tech
-- 💞️ I’m looking to collaborate on devs of all categories
 - 📫 How to reach me: drop me a mail -->> richotaru@gmail.com
 
 <!---
